@@ -1,0 +1,26 @@
+section {
+  position: relative;
+  top: 200px; }
+  section #login-box {
+    width: 50%;
+    height: 50%;
+    margin: auto; }
+    section #login-box form {
+      width: 50%;
+      margin: auto;
+      position: relative;
+      top: 70px; }
+      section #login-box form .form-input-control {
+        background-color: #fff;
+        padding: 0px 18px 18px 18px; }
+        section #login-box form .form-input-control input[type='submit'] {
+          width: 100%; }
+        section #login-box form .form-input-control .row {
+          margin-left: -18px;
+          margin-right: -18px;
+          background-color: #F2F2F2; }
+      section #login-box form .login-logo {
+        text-align: center;
+        margin-bottom: 10px; }
+        section #login-box form .login-logo img {
+          width: 150px; }

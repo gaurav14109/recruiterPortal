@@ -1,0 +1,15 @@
+Congratulations for being selected for the next round.
+In order to qualify for the next round you have to complete the following task:
+
+Basically, you will need to develop simple Recruiter portal using NodeJs which should have following features:
+
+There should be a login page for two entities namely AccountManager and Recruiter. 
+Account Manager will receive a new job whenever company recruiter has posted on the portal.
+Account Manager then assign few recruiters from all recruiters to working on this job.
+Then, Recruiter can start working on this job or else reject it with feedback.
+If they have accepted the respective job then they will start putting candidate details.
+After candidate has been put-up by recruiter then account manager will check whether candidate has been already submitted by another recruiter if not then it will be accepted or else it will be rejected.
+
+Note: 
+For a time begin, you can add few Jobs, Recruiters, Candidates and one AccountManager Details into MongoDB.
+Feel free to use any front library or framework. Create form wherever it is needed.
